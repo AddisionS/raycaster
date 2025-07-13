@@ -64,4 +64,12 @@ That simplicity is why it's being recreated here, from scratch.
 
 ---
 
+## 🛠️ Build Instructions
+If using *Dev-C++* to compile the code, do not forget to add the following linker flags:
+-lopengl32
+-lglu32
+-lfreeglut
+
+---
+
 *Built for the love of low-level graphics. A tribute to the legends who did more with less.*
